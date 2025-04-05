@@ -1,3 +1,3 @@
-# Force doc/*.tex files to be classified as TeX (not just docs)
-doc/*.tex linguist-documentation=false
-doc/*.tex linguist-language=TeX
+# Force docs/*.tex files to be classified as TeX (not just docs)
+docs/*.tex linguist-documentation=false
+docs/*.tex linguist-language=TeX
